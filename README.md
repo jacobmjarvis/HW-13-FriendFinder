@@ -7,9 +7,11 @@ The goal of this project was to create a Friend Finder app (essentially a dating
 
 ## Screen Shots
 - Welcome Page
+
 ![Screen shot](app/public/images/screenshot_1.png)
 
 - Survey Page
+
 ![Screen shot 2](app/public/images/screenshot_2.png)
 
 
