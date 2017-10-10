@@ -20,8 +20,5 @@ Survey
 - [path NPM Package](https://www.npmjs.com/package/path)
 
 ### Prerequisites
-
-```
 - Node.js - [Download the latest version of Node](https://nodejs.org/en/)
-- Materialize - Add CDN link to HTML http://materializecss.com/getting-started.html
-```
+- Materialize - [Link CDN in HTML](http://materializecss.com/getting-started.html)
